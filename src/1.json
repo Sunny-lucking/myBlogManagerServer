@@ -1,0 +1,16 @@
+{
+  "firstName":"超级管理员",
+  "id":1,
+  "chidren":[
+    {
+      "secondName":"用户管理",
+      "id":10,
+      "chidren":[
+        {
+          "thirdName":"删除用户",
+          "id":22
+        }
+      ]
+    }
+  ]
+}
